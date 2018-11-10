@@ -37,7 +37,7 @@ unicodedata.normalize('NFC', '한글')
 #호환 분해한 뒤에 다시 정준 결합
 unicodedata.normalize('NFKC', '한글')
 
-#N조합형 정규화
+#조합형 정규화
 #정준 분해
 unicodedata.normalize('NFD', '한글')
 #호환 분해
