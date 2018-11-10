@@ -60,4 +60,3 @@ str = u'樂'
 #유니코드 값 반환
 print(format(ord(str), 'X'))
 #6A02
-
