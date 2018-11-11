@@ -16,5 +16,14 @@
 
 - [2.3_random_sample.py](https://github.com/return40/python_basic/blob/master/2.3_random_sample.py) - 의사 난수 다루기
 
-- []() - 
+- [2.4_statistics_sample.py](https://github.com/return40/python_basic/blob/master/2.4_statistics_sample.py) - 간단한 통계 계산
 
+- []() -
+
+- []() -
+
+- []() -
+
+- []() -
+
+- []() -
