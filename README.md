@@ -18,7 +18,7 @@
 
 - [2.4_statistics_sample.py](https://github.com/return40/python_basic/blob/master/2.4_statistics_sample.py) - 간단한 통계 계산
 
-- []() -
+- [3.1_datetime_sample.py](https://github.com/return40/python_basic/blob/master/3.1_datetime_sample.py) - 날짜와 시간 다루기
 
 - []() -
 
