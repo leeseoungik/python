@@ -20,7 +20,7 @@
 
 - [3.1_datetime_sample.py](https://github.com/return40/python_basic/blob/master/3.1_datetime_sample.py) - 날짜와 시간 다루기
 
-- []() -
+- [3.3_dateutil_sample.py]() - datetime
 
 - []() -
 
