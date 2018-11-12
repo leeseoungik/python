@@ -171,4 +171,3 @@ print(list(rrule(MONTHLY, count=4, byweekday=FR(-1), dtstart=start)))
 #격주
 print(list(rrule(WEEKLY, interval=2,  count=3, dtstart=start)))
 #[datetime.datetime(2018, 1, 1, 0, 0), datetime.datetime(2018, 1, 15, 0, 0), datetime.datetime(2018, 1, 29, 0, 0)]
-
