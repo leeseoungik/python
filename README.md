@@ -22,6 +22,18 @@
 
 - [3.3_dateutil_sample.py](https://github.com/return40/python_basic/blob/master/3.3_dateutil_sample.py) - datetime
 
+- [3.4_pytz_sample.py](https://github.com/return40/python_basic/blob/master/3.4_pytz_sample.py) - 전 세계 표준시간대 정보 다루기 - pytz
+
+- []() -
+
+- []() -
+
+- []() -
+
+- []() -
+
+- []() -
+
 - []() -
 
 - []() -
