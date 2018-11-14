@@ -20,7 +20,7 @@
 
 - [3.1_datetime_sample.py](https://github.com/return40/python_basic/blob/master/3.1_datetime_sample.py) - 날짜와 시간 다루기
 
-- [3.3_dateutil_sample.py](https://github.com/return40/python_basic/blob/master/3.3_dateutil_sample.py) - datetime
+- [3.3_dateutil_sample.py](https://github.com/return40/python_basic/blob/master/3.3_dateutil_sample.py) - datetime의 강력한 확장 모듈 dateutil
 
 - [3.4_pytz_sample.py](https://github.com/return40/python_basic/blob/master/3.4_pytz_sample.py) - 전 세계 표준시간대 정보 다루기 - pytz
 
